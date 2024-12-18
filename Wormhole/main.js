@@ -69,7 +69,6 @@ for(let i=0; i<numBoxes; i++) {
     const box = new THREE.Mesh(boxGeo, boxMat);
 
     const p = (i/numBoxes + Math.random()*0.1) % 1;
-    console.log(p);
     const pos = tubeGeo.parameters.path.getPointAt(p);
     pos.x += Math.random() - 0.4;
     pos.z += Math.random() - 0.4;
