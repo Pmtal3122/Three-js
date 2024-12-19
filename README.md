@@ -1,4 +1,4 @@
-This project contains seven examples of Three JS applications (Heavily inspired from @bobbyroe):
+This repository contains programs inspired by the work of [@bobbyroe](https://github.com/bobbyroe):
 
 1. Creating a Scene
 2. Drawing Lines
