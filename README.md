@@ -1,5 +1,4 @@
-This project contains seven examples of Three JS applications (Heavily inspired from [Bobby Roe](https://github.com/bobbyroe)):
-[@bobbyroe]
+This project contains seven examples of Three JS applications (Heavily inspired from @bobbyroe):
 
 1. Creating a Scene
 2. Drawing Lines
